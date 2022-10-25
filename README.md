@@ -13,6 +13,6 @@
 
 ###This project intends to
 
-> Show my skills developing a Blockchain Token, this Token has a limited supply and it can a
+> Show my skills developing a Blockchain Token, this Token has a limited supply.
 
 

@@ -3,7 +3,6 @@
 ### Features
 
 
-- Motoko Laguage; 
 - Show the user his balance on the Frontend;
 - Faucet Functionality Using the Shared Keyword;
 - Transfer Functionality;
@@ -13,6 +12,12 @@
 
 ###This project intends to
 
-> Show my skills developing a Blockchain Token, this Token has a limited supply.
+> Show my skills developing and working with Blockchain Token, this Token has a limited supply.
 
+####Languages used to developL:
+
+- Motoko;
+-JavaScript;
+-Css;
+-HTML.
 

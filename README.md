@@ -19,9 +19,8 @@
 
 #### Languages used to develop:
 
-
 - Motoko;
--JavaScript;
--Css;
--HTML.
+- JavaScript;
+- Css;
+- HTML.
 

@@ -14,7 +14,11 @@
 
 > Show my skills developing and working with Blockchain Token, this Token has a limited supply.
 
-#### Languages used to developL:
+
+
+
+#### Languages used to develop:
+
 
 - Motoko;
 -JavaScript;

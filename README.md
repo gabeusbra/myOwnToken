@@ -10,11 +10,11 @@
 - Persisting Non-Stable Types Using the Pre- and Postupgrade Methods;
 
 
-###This project intends to
+### This project intends to
 
 > Show my skills developing and working with Blockchain Token, this Token has a limited supply.
 
-####Languages used to developL:
+#### Languages used to developL:
 
 - Motoko;
 -JavaScript;
